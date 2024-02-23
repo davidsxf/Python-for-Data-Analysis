@@ -7,9 +7,9 @@
 ### Section 2: Data Structures[https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook#Section-2:-Data-Structures](https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook#Section-2:-Data-Structures)
 
 [4: Variables
-](https://www.kaggle.com/hamelg/python-for-data-4-variables)[5: Lists
-](https://www.kaggle.com/hamelg/python-for-data-5-lists)[6: Tuples and Strings
-](https://www.kaggle.com/hamelg/python-for-data-6-tuples-and-strings)[7: Dictionaries and Sets
+](https://www.kaggle.com/hamelg/python-for-data-4-variables)
+[5: Lists](https://www.kaggle.com/hamelg/python-for-data-5-lists)
+[6: Tuples and Strings](https://www.kaggle.com/hamelg/python-for-data-6-tuples-and-strings)[7: Dictionaries and Sets
 ](https://www.kaggle.com/hamelg/python-for-data-7-dictionaries-and-sets)[8: Numpy Arrays
 ](https://www.kaggle.com/hamelg/python-for-data-8-numpy-arrays)[9: Pandas DataFrames
 ](https://www.kaggle.com/hamelg/python-for-data-9-pandas-dataframes)[10: Reading and Writing Data](https://www.kaggle.com/hamelg/python-for-data-10-reading-and-writing-data)
