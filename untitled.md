@@ -16,9 +16,9 @@
 
 ### Section 3: Programming Constructs[https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook#Section-3:-Programming-Constructs](https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook#Section-3:-Programming-Constructs)
 
-[11: Control Flow
-](https://www.kaggle.com/hamelg/python-for-data-11-control-flow)[12: Functions
-](https://www.kaggle.com/hamelg/python-for-data-12-functions)[13: List Comprehensions](https://www.kaggle.com/hamelg/python-for-data-13-list-comprehensions)
+[11: Control Flow](https://www.kaggle.com/hamelg/python-for-data-11-control-flow)
+[12: Functions](https://www.kaggle.com/hamelg/python-for-data-12-functions)
+[13: List Comprehensions](https://www.kaggle.com/hamelg/python-for-data-13-list-comprehensions)
 
 ### Section 4: Data Exploration and Cleaning[https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook#Section-4:-Data-Exploration-and-Cleaning](https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook#Section-4:-Data-Exploration-and-Cleaning)
 
